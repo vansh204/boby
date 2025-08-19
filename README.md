@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+   
+    <table>
+        <tr>
+            <td>
+                <img src="./vansh1pic.jpg" alt="my image" width="200px">
+            </td>
+            <td> <h1>VANSH MIRASE</h1>
+            <label for="title">
+                <i>Student</i>
+            </label>
+        <p><strong>passionate about learning new things</strong></p>
+    </td>
+        </tr>
+    </table>
+    </header>
+    <hr>
+    <!--education section-->
+<h2>Education</h2>
+<p>
+    <ul type=" filled circle">
+        <li>
+           <h3> <a href="https://avmnagpur.edu.in/#/">Adarsh vidya mandir school</a></h3>
+        </li> 
+        <ul type="square">
+       <li> SSC-march 2021</li>
+       <li>Nagpur Maharashtra,India</li>
+    </ul>
+<li>
+    <h3> <a href="https://www.justdial.com/Nagpur/Shahus-Garden-High-School-Junior-College-Mahatma-Fuley-Nagar-Manewada-Road/0712P7104-7104-091228210256-B7U5_BZDET">Shahu garden junior college</a></h3></li>
+<ul type="square">
+<li>HSC-march 2023</li>
+<li>Nagpur Maharashtra,India</li>
+</ul>
+<li>
+    <h3>
+        <a href="https://ghrcacsn.raisoni.net/">Raisoni college of art ,commerce ,science and technology</a>
+    </h3>
+</li>
+<ul type="square">
+    <li>pursuing in BCA third year</li>
+    <li>2023 to 2026</li>
+    <li>Nagpur Maharashtra,India</li>
+</ul>
+</ul>
+<hr>
+<!--skill section-->
+<h2>Computer skills</h2>
+<ul type="square">
+    <li>Ms-office</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>HTML</li>
+    <li>linux</li>
+    <li>PHP</li>
+</ul>
+<hr>
+<!--HOBBY SECTION-->
+<h2>Hobby</h2>
+<ul type="square">
+    <li>MMA</li>
+    <li>Taekwondo</li>
+    <li>swimming</li>
+    <li>Roll ball</li>
+    <li>skating</li>
+</ul>
+<a href="./contact.html">Contact me</a>
+
+</body>
+</html>
